@@ -17,4 +17,4 @@ CP1 HOMEWORK 3
 
 4. What does the -10 do in the second and fourth arguments of the line function, height-10-random(h)? Why is it there?
 
-  It defines the minimum height of each grass.
+  It is the space that gives to the brown ground.
